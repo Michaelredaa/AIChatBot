@@ -1,5 +1,6 @@
 # OpenAIBot For Telegram
 - This is a simple telegram chatbot that uses OpenAI API to generate a responses to messages. By sending the message the bot send a request to chatGPT API and wait for a response, once get the response sending it back to the chat.
+- You can test my bot from `http://t.me/michael_start_for_testing_bot`
 
 # Requirements 
 - `pip install aiogram`
